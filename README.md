@@ -85,6 +85,5 @@ This experiment validates that:
 - KMeans performs best on this dataset.
 - Evaluation using multiple metrics provides better judgment.
 
----
 
-**Author**: _Your Name_  
+
